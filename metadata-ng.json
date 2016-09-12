@@ -1,0 +1,31 @@
+{
+    "name": "Vaadin Rich Web Starter",
+    "services": [
+        {
+            "name": "elephantsql",
+			"plan": "turtle"
+        }
+    ],
+    "defaultMemory": 512,
+    "description": "This application demonstrates how to use the Vaadin UI Framework to build rich HTML5 applications, with the \"Liberty for Java\" runtime. ",
+    "type": "web",
+    "version": "0.0",
+    "smallIcon": "vaadin-24.png",
+    "icon": "vaadin-32.png",
+    "largeIcon": "vaadin-50.png",
+    "featuredIcon": "vaadin-64.png",
+    "marqueeIcon":"vaadin-256.png",
+    "headingIcon": "vaadin-500.png",
+    "executableFile": "VaadinStarterApp.war",
+    "instructions": "app/instructions.md",
+    "system_tags": ["community"],
+    "source":{
+        "scmType":"git",
+        "url":"https://github.com/starterapps-metadata/vaadinStarter.git",
+        "appPath":"app"
+    },
+	"docURL": "https://hub.jazz.net/project/vaadin/vaadin-jpa-app/overview",
+	"runtime_id": "d70d427c-eb92-43a7-a3fa-67e9885ad044",
+	"categories": ["boilerplate"],
+	"runtime_template_id": "javaHelloWorld"
+}
