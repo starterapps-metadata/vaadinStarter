@@ -24,7 +24,7 @@
         "url":"https://github.com/starterapps-metadata/vaadinStarter.git",
         "appPath":"app"
     },
-	"docURL": "https://hub.jazz.net/project/vaadin/vaadin-jpa-app/overview",
+	"docURL": "https://github.com/vaadin/framework-bluemix-example",
 	"runtime_id": "d70d427c-eb92-43a7-a3fa-67e9885ad044",
 	"categories": ["boilerplate"],
 	"runtime_template_id": "javaHelloWorld"
